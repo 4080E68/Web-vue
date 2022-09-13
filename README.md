@@ -7,7 +7,7 @@ http://pc239.ctlin.ml/vm/
 ```
 ip a
 ```
-### 查看位置 [4080E068@localhost ~]$ pwd
+### 查看位置 pwd
 /home/4080E068
-### 建立名為lemp.sh檔案 [4080E068@localhost ~]$ vi lemp.sh
-### 執行 [4080E068@localhost ~]$ sudo bash ./lemp.sh
+### 建立名為 lemp.sh檔案 vi lemp.sh
+### 執行 sudo bash ./lemp.sh
